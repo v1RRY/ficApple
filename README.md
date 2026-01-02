@@ -1,1 +1,1 @@
-<p style="text-align: center;">ficApple</p>
+<h1 align="center">ficApple</h1>
