@@ -10,4 +10,4 @@ Step by Step in tree form
   - Type *#06#
 
 <p align="center">Then, you should see the following image:</p>
-<img align="center" src="https://github.com/v1RRY/ficApple/Assets/IMG_3805.png">
+<img align="center" src="https://raw.githubusercontent.com/v1RRY/ficApple/refs/heads/main/Assets/IMG_3805.png">
