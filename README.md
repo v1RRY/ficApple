@@ -1,2 +1,1 @@
-# ficApple
-Fictional Apple guides and concepts
+<p style="text-align: center">ficApple</p>
